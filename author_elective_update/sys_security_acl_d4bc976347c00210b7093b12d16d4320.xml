@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>GetEmailAddress</name>
+        <operation display_value="execute">execute</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-05 17:30:38</sys_created_on>
+        <sys_id>d4bc976347c00210b7093b12d16d4320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GetEmailAddress</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_security_acl_d4bc976347c00210b7093b12d16d4320</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 17:30:38</sys_updated_on>
+        <type display_value="client_callable_script_include">client_callable_script_include</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>532dbb67dbe2f59402d917291396194a</instance_id>
+        <instance_name>dev221926</instance_name>
+        <name>sys_security_acl_d4bc976347c00210b7093b12d16d4320</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>GetEmailAddress</name><operation display_value="execute">execute</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-05 17:30:38</sys_created_on><sys_id>d4bc976347c00210b7093b12d16d4320</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GetEmailAddress</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_security_acl_d4bc976347c00210b7093b12d16d4320</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-05 17:30:38</sys_updated_on><type display_value="client_callable_script_include">client_callable_script_include</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1229360137</payload_hash>
+        <record_name>GetEmailAddress</record_name>
+        <reverted_from/>
+        <source>019efc7547400210b7093b12d16d433c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-05 17:30:39</sys_created_on>
+        <sys_id>a8bc976347c00210b7093b12d16d4323</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d7a526e720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 17:30:39</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>ecbc97639fc002100b0eec78a2ebd822</update_guid>
+        <update_guid_history>ecbc97639fc002100b0eec78a2ebd822:1229360137</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-05 21:41:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>63969c0d1f314ddcb47ad2a56d33ca64</sys_id>
+        <sys_metadata>d4bc976347c00210b7093b12d16d4320</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GetEmailAddress</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_d4bc976347c00210b7093b12d16d4320</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_d4bc976347c00210b7093b12d16d4320">a8bc976347c00210b7093b12d16d4323</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 21:41:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
